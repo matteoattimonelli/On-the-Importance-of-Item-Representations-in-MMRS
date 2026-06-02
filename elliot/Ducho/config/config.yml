@@ -1,0 +1,3 @@
+dataset_path: ../data/
+gpu list: -1
+model map: modelMap.yml

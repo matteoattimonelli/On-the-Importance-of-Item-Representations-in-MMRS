@@ -1,0 +1,12 @@
+*.log 
+*.zip
+*.npy
+*.tsv
+*.txt
+*.out
+__pycache__
+.vscode
+.idea
+.DS_Store
+.placeholder
+
